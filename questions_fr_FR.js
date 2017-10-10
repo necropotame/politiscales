@@ -38,7 +38,7 @@ questions = [
 		]
 	},
 	{
-		question: "Les sciences dites « dures » sont subjectives et reproduisent les structures de notre société.",
+		question: "Les sciences, même la physique ou la biologie, ne sont pas absolues et sont conditionnées par notre société.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -142,7 +142,7 @@ questions = [
 		]
 	},
 	{
-		question: "Les différences hormonales expliquent certaines différences de comportement entre les hommes et les femmes.",
+		question: "Les différences hormonales expliquent certaines différences de traits de caractère entre les hommes et les femmes.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -214,7 +214,7 @@ questions = [
 		]
 	},
 	{
-		question: "Biologiquement, l'espèce humaine est faite pour l'héterosexualité.",
+		question: "Biologiquement, l'espèce humaine est faite pour l'hétérosexualité.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -295,7 +295,7 @@ questions = [
 		]
 	},
 	{
-		question: "Si les conditions et les normes sont compatibles, il faut supprimer les taxes pour les produits étrangers.",
+		question: "Si deux pays ont une économie, des systèmes sociaux, et des normes environnementales similaires, alors le libre échange entre eux ne pose aucun problème.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -552,7 +552,7 @@ questions = [
 		]
 	},
 	{
-		question: "Il faut mettre en place des assemblées pour répartir les productions vers les consommateurs en fonction des besoins.",
+		question: "Il faut mettre en place des assemblées pour rationner les productions vers les consommateurs en fonction des besoins.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -841,7 +841,7 @@ questions = [
 		]
 	},
 	{
-		question: "Il faut simplifier le code du travail pour diminuer le chômage.",
+		question: "Il faut supprimer des règlementations dans code du travail pour encourager les entreprises à embaucher.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1339,7 +1339,7 @@ questions = [
 		]
 	},
 	{
-		question: "Le nucléaire, quand il est bien entretenu, est une bonne source d’énergie.",
+		question: "La fission nucléaire, quand elle est bien entretenue, est une bonne source d’énergie.",
 		answer: 0,
 		valuesYes: [
 			{
