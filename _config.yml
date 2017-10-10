@@ -112,55 +112,55 @@ t:
       share_twitter: "Mon résultat sur #PolitiScales : %slogan%"
    
    fr_FR:
-      header_desc: PolitiScales est un test politique utilisant 8 axes idéologiques pour vous aider à vos situer politiquement, ou simplement partager votre profil avec vos amis.
-      footer: PolitiScales est une initiative du Discord « La Commune », librement inspirée de <a href="https://8values.github.io/">8values</a>.
+      header_desc:PolitiScales ist ein politisches Experiment, welches sich auf 8 ideologischen Achsen stützt, um Ihr politisches Spektrum einordnen zu können, oder um einfach Ihr Profil mit Freunden zu teilen.
+      footer: PolitiScales ist eine Initiative des Discords « La Commune » (Die Kommune) inspiriert von <a href="https://8values.github.io/">8values</a>.
       
-      constructivism: Constructivisme
-      essentialism: Essentialisme
-      justice_soft: Justice réhabilitative
-      justice_hard: Justice punitive
-      progressism: Progressisme
-      conservatism: Conservatisme
-      internationalism: Internationalisme
-      nationalism: Nationalisme
-      communism: Communisme
-      capitalism: Capitalisme
-      regulationism: Régulationnisme
-      laissez_faire: Laissez-faire
-      ecology: Écologie
-      productivism: Productivisme
-      revo: Révolution
-      refo: Réformisme
+      constructivism: Konstruktivismus
+      essentialism: Essentialismus
+      justice_soft: Rehabilitationsjustiz
+      justice_hard: Vergeltungsjustiz
+      progressism: Progressivismus
+      conservatism: Konservatismus
+      internationalism: Internationalismus
+      nationalism: Nationalismus
+      communism: Kommunismus
+      capitalism: Kapitalismus
+      regulationism: Soziale Marktwirtschaft
+      laissez_faire: Laissez-faire (Libertarismus)
+      ecology: Ökologismus
+      productivism: Produktivismus
+      revo: Revolutionär
+      refo: Reformismus
       
-      result_anarchism: Anarchisme
-      result_pragmatism: Pragmatisme
-      result_feminism: Féminisme radical
-      result_complotism: Complotisme
-      result_veganism: Véganisme
-      result_monarchism: Monarchisme
-      result_religion: Missionnaire
+      result_anarchism: Anarchismus
+      result_pragmatism: Pragmatismus
+      result_feminism: Radikaler Feminismus
+      result_complotism: Konspirationismus 
+      result_veganism: Vegan
+      result_monarchism: Monarchismus
+      result_religion: Missionieren
       
-      index_welcome: Bienvenue dans PolitiScales, le test politique <i>online</i>. Vous allez être confronté à une série d'affirmations. Pour chacune d'elles, cliquez sur le bouton correspondant à votre opinion.
-      index_context: Les questions supposent que vous êtes citoyen d’une nation avec un système politique multi-parti et une économie de marché.
-      index_advice: Vous pouvez tout à fait ne pas répondre à une question. Mais si vous ne comprenez pas le sens d'une question, essayez d'inverser son sens pour mieux comprendre ce qu'elle implique.
-      index_warning: Ce test cherche à representer le panel le plus large possible d'opinions et contient donc des phrases qui peuvent vous choquer, en particulier concernant le racisme et l'homophobie.
-      index_title_instructions: Instructions
-      index_btn_start: Commencer le test
+      index_welcome: Wilkommen in PolitiScales, das politische Experiment <i>online</i>. Eine Reihe von Aussagen wird angegeben werden, Sie müssen für jede Aussage Ihre entsprechende Meinung wählen.
+      index_context: Die Fragen voraussetzen, dass Sie Bürger einer Nation mit einem pluralistischen Parteisystem und einer Marktwirtschaft sind.
+      index_advice: Sie können sowohl auch eine Frage nicht beantworten. Wenn Sie den Sinn der Frage nicht begreifen, versuchen Sie die Aussage zu verneinen, umzukehren.
+      index_warning: Dieses Experiment versucht eine globale Repräsentativität der öffentlichen Meinungen nachzubilden. Deshalb entählt dieses Experiment Aussagen in Bezug auf Homosexualität oder Rassismus, die schockieren können.
+      index_title_instructions: Anweisungen
+      index_btn_start: Das Experiment beginnen
          
-      help_whois: Qui sommes-nous ?
-      help_desc: PolitiScales est un test politique utilisant 8 axes idéologiques pour vous aider à vos situer politiquement, ou simplement partager votre profil avec vos amis. Ce site internet est une initiative du Discord « La Commune », librement inspirée de <a href="https://8values.github.io/">8values</a>.
-      help_constructivism1: Pourquoi les gens sont-ils comme ils sont ? Cet axe permet de vous situer entre deux pôles antagonistes répondant à cette question.
-      help_constructivism2: Les <b>constructivistes</b> estiment qu’un individu se construit à partir de son environnement (notamment social), que les caractères qui le composent sont acquis.
-      help_constructivism3: À l’inverse, les <b>essentialistes</b> partent du principe qu’un individu est par nature tel qu’il est, et que les caractères qui le composent sont innés.
-      help_justice1: Les partisans de la <b>justice réhabilitative</b> estiment que le rôle de la Justice est de remettre les condamnés dans le "droit chemin", en leur faisant comprendre pourquoi ils ne doivent pas faire ce pour quoi ils ont été condamnés, et en les accompagnant tout au long de ce processus.
-      help_justice2: À l’inverse, les partisans de la <b>justice punitive</b> partent du principe que le rôle de la Justice est dissuasif, à la fois pour les condamnés (pour éviter la récidive) et pour le reste de la société (en faisant des condamnés des exemples à ne pas suivre).
-      help_progressism1: Les <b>progressistes</b> cherchent à instaurer un progrès social, à améliorer la société, sans se soucier des traditions. Ils estiment souvent l’époque présente comme meilleure que celles passées, et qu’il est nécessaire de poursuivre dans cette lancée.
-      help_progressism2: À l’inverse, les <b>conservateurs</b> cherchent à garder le statu quo, voire à rétablir certaines valeurs établies jugées disparues ou en perdition. Les traditions, parmi lesquelles l’héritage religieux, sont mises en avant comme source de sagesse.
-      help_internationalism1: <b>L’internationalisme</b> est un ensemble d’idées hétéroclites ayant pour point commun de ne pas hiérarchiser les pays et leurs habitants entre eux, et à promouvoir autant que possible leur coopération. Poussé à son maximum, l’objectif final de l’internationalisme est l’abolition des frontières.
-      help_internationalism2: À l’inverse, le <b>nationalisme</b> est un ensemble d’idées hétéroclites ayant pour point commun de privilégier le pays et les habitants dans lequel il s’applique par rapport aux autres, et à légitimer l’existence d’une nation par peuple.
-      help_communism1: Le <b>communisme</b> est une doctrine politique très vaste. Dans ce test, une prépondérance pour le communisme signifie simplement que vous êtes partisans de la propriété publique des moyens de productions.
-      help_communism2: Le <b>capitalisme</b> est lui aussi un concept très ambivalent. Dans ce test, une prépondérance pour le capitalisme signifie simplement que vous êtes partisans de la propriété privée des moyens de productions.
-      help_regulationism1: Cet axe représente l'attitude que doit avoir un état dans une économie de marché où une part importante des moyens de production sont privés. Libéraux et keynésiens s’opposent ainsi sur la méthode à adopter sans toutefois remettre en question le capitalisme. Si vous êtes plutôt capitaliste, cet axe représente votre but en matière d’économie. Si vous êtes communiste, cet axe représente ce que vous pouvez attendre de moins mauvais du système actuel.
+      help_whois: Wer sind wir ?
+      help_desc:PolitiScales ist ein politisches Experiment, welches sich auf 8 ideologischen Achsen stützt, um Ihr politisches Spektrum einordnen zu können, oder um einfach Ihr Profil mit Freunden zu teilen. Diese Webseite ist eine Initiative des Discords « La Commune » inspiriert von <a href="https://8values.github.io/">8values</a>.
+      help_constructivism1: Warum sind Menschen so wie sie sind ?  Der Konstruktivismus und der Essentialismus bilden zwei gegensätzliche Ansätze, auch wenn sie die gleiche Frage beantworten. 
+      help_constructivism2: Die <b>Konstruktivisten/b> schätzen, dass ein Individuum in einer bedingten Gesellschaft sich sozial konstruiert, und dass seine bestehenden Eigenschaften erworben sind.
+      help_constructivism3: Dagegen gehen die <b>Essentialisten</b> davon aus, dass ein Individuum durch seine Gene und Natur bestimmt ist. Das bedeutet, dass seine bestehenden Eigenschaften angeboren sind.
+      help_justice1: Die Anhänger der <b>Rehabilitionsjustiz </b> denken, Urteile sind nicht dafür gedacht, Menschen zu verletzen, sondern den Verurteilten zu helfen, indem die Justiz sie auf den rechten Weg begleitet.
+      help_justice2: Stattdessen behaupten die Anhänger der <b>Vergeltungsjustiz</b>, die Urteile seien nur ein Abschreckungsmittel, um Verbrechen zu verhindern. So bilden die Verurteilten eine Verbildlichung, was den Verbrechern oder Bürgern passieren kann.  
+      help_progressism1: Die <b>Progressisten</b>versuchen immer einen sozialen Fortschritt zu richten, die Gesellschaft zu verbessern. Sie achten wenig auf Tradition und finden, dass es Heute besser ist als damals.
+      help_progressism2: Die <b>Konservativen</b> bevorzugen den sog. Status quo, wenn es der Fall ist. Sonst fordern sie die Rückkehr oder den Schutz von bestimmten Werten, die bedroht sind. Diese können religös, historisch geprägt sein.
+      help_internationalism1: <b>Der internationalismus</b> bildet eine Strömung von vielfältigen Ideen, die in einem gemeinsamen Ziel übereinstimmen : Die vollständige Abschaffung der Grenzen. Die Internationalisten lehnen die Hierarchisierung der Menschen und der Bevölkerungen ab.
+      help_internationalism2: Der <b>Nationalismus</b> streben nach dem Wohlsein des Staates und dessen Bevölkerung. Sie streben nach der Erhaltung einer nationalen Identität. Ihre Interessen sind national zentriert und rechtfertigen die Schaffung eines Staates für ein bestimmtes Volk.
+      help_communism1: Der <b>Kommunismus</b> ist ein sehr politisches, breites Feld. Dieses Experiment illustriert nur, dass Sie für die Aufhebung des Privatseingentum im Rahmen der Produktionsmittel sind.
+      help_communism2: Der <b>capitalisme</b> ist ein ambivalentes Konzept. Dieses Experiment illustriert nur, dass Sie gegen die Aufhebung des Privatseingentum im Rahmen der Produktionsmittel sind.
+      help_regulationism1: Diese Achse stellt die wirtschaftliche Haltung des Staates dar, welche die Marktwirtschaft beeinflusst. In diesem Modell sind die Produktionsmittel mehrheitlich privatisiert. Liberale und Keynesianer streiten sich darüber, welche Methode für den Kapitalismus übernommen wird. Wenn Sie eher ein Kapitalist sind, schildert diese Achse Ihren Arbeitsmethodenunterschied. Sie sind ein Kommunist. Dann bildet diese Achse die Hoffnung, dass ein von den beiden Methoden nicht so schädlich ist.
       help_regulationism2: Le <b>régulationnisme</b>, ou interventionnisme, est une idée selon laquelle l’activité économique doit être régulée dans l’intérêt de tous. Cela peut passer par la législation, la planification, les subventions, une imposition variable…
       help_regulationism3: À l’inverse, le <b>laissez-faire</b> est une idée selon laquelle l’activité économique ne doit pas être régulée, car elle répondrait d’elle-même à l’intérêt général. Cela peut passer par une faible législation, peu ou pas de subventions, une imposition fixe et souvent faible, voire la suppression complète du rôle de l’État en matière d’économie.
       help_ecology1: <b>L’écologie</b>, en politique, privilégie la protection de l’environnement, en limitant autant que possible l’impact des activités humaines sur la biodiversité, quitte à limiter au passage lesdites activités humaines en modifiant plus ou moins radicalement le mode de vie actuel.
