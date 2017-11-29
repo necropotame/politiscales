@@ -134,7 +134,7 @@ t:
       
       slogan_constructivism: Equality
       slogan_internationalism: Humanity
-      slogan_nationalism: contry
+      slogan_nationalism: Fatherland
       slogan_communism: Socialism
       slogan_capitalism: Work
       slogan_laissez_faire: Liberty
@@ -144,9 +144,9 @@ t:
       slogan_ecology: Ecology
       slogan_revo: Revolution
       
-      share_facebook: "Mon résultat sur #PolitiScales : %slogan%"
-      share_reddit: "Mon résultat sur #PolitiScales : %slogan%"
-      share_twitter: "Mon résultat sur #PolitiScales : %slogan%"
+      share_facebook: "My result on #PolitiScales : %slogan%"
+      share_reddit: "My result on #PolitiScales : %slogan%"
+      share_twitter: "My result on #PolitiScales : %slogan%"
    
    fr_FR:
       header_desc: PolitiScales est un test politique utilisant 8 axes idéologiques pour vous aider à vous situer politiquement, ou simplement partager votre profil avec vos amis.
